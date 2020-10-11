@@ -3,8 +3,9 @@
 ###### Innehåll idag:
 
 - Kort historia git och versionshantering
+- (Övning: Installera git & Sourcetree)
 - Grundläggande kommando
-- Övning: Installera git
+- Övning: Skapa ett repo, lägg in en fil och commita
 - Övning: Hämta ut ett repo från github
 - Övning: Gör en ändring till repot som checkades ut
 - Övning: Identifiera när en "bug" introducerades
@@ -16,6 +17,19 @@ Records changes to files over time, so that you can recall specific versions lat
 ###### Varför använder vi versionshantering?
 
 Tracability
+
+###### Grundläggande terminologi
+
+Filerna "bor" i ett **repository**.
+
+Ett **repository's** historik består av **commits**.
+
+En **commit** består av:
+
+- Datum
+- Författare
+- Ett meddelande som beskriver **commiten**
+- En ögonblicksbild av "filträdet" vid **commit**-tillfället
 
 ###### Vilka typer av verktyg finns det?
 
