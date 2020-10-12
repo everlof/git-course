@@ -8,6 +8,7 @@
 - Övning: Skapa ett repo, lägg in en fil och commita
 - Övning: Hämta ut ett repo från github
 - Övning: Gör en ändring till repot som checkades ut
+- Övning: Hantera en konflikt
 - Övning: Identifiera när en "bug" introducerades
 
 ###### Vad är versionshantering?
@@ -30,6 +31,8 @@ En **commit** består av:
 - Författare
 - Ett meddelande som beskriver **commiten**
 - En ögonblicksbild av "filträdet" vid **commit**-tillfället
+
+Commit är det viktigaste konceptet.
 
 ###### Vilka typer av verktyg finns det?
 
@@ -93,7 +96,8 @@ https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290#comme
 
 ### Övningar
 
-##### 1. Installera git ("Git Bash")
+##### 1. Installera git ("Git Bash") + Github Desktop
 
 https://git-scm.com/downloads
 
+https://desktop.github.com
