@@ -55,21 +55,6 @@ VCS vs. DVCS
 - Additional storage required for every user to have a complete copy of the complete codebase history.[6]
 - Increased exposure of the code base since every participant has a locally vulnerable copy.[citation needed]
 
-
-VCS:
-
-- CVS (1986)
-
-- Subversion (SVN) (2000)
-
-DVCS:
-
-- BitKeeper (2000, OS 2016)
-
-- GIT (2005)
-
-- Mercurial (2005)
-
 ###### Kort historia GIT
 
 Linuxkärnan email-patchar 1991-2002.
