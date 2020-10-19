@@ -5,7 +5,7 @@
 - Visa `git status` att den är untracked
 - Lätt till i staging area 'git add att-handla.txt'
 - Commit `git commit -m "Lade till 'att-handla.txt'"`
-
+- `git log` för att kolla på commiten vi precis skapat
 
 ##### Interaktiv del 2
 
