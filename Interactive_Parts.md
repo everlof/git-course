@@ -59,13 +59,13 @@
 ##### Interaktiv del 6
 
 - `git status`
-- `git checkout gora`
-- `git diff master..gora`
-- `git merge gora`
+- `git checkout todo`
+- `git diff master..todo`
+- `git merge todo`
 - `git slog`
-- Nu kan vi ta bort `gora`
+- Nu kan vi ta bort `todo`
 - `git branch --merge`
-- git branch -d gora
+- git branch -d todo
 - git branch -d handla
 
 ##### Interaktiv del 7
